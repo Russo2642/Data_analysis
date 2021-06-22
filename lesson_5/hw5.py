@@ -54,7 +54,12 @@ function(8,5,10)
 # 3.Написать функцию, которая принимает два аргумента. Первый - список чисел, второй - булевый флаг. 
 # Если флаг действителен - возвращаем новый список с нечетными числами из входного списка,
 # если флаг отрицателен - возвращаем новый список с четными числами из входного списка
-
+# def myfunc(listnumber, flag):
+#     if flag = True:
+#         for i in 
+#         return (x % 2 != 0, listnumber)
+#     else:
+#         return (x % 2 == 0, listnumber)
 
 
 
@@ -67,3 +72,12 @@ function(8,5,10)
 # 6. Что такое *args и **kwargs: https://lancelote.gitbooks.io/intermediate-python/content/book/args_and_kwargs.html
 
 
+
+
+
+
+txt = "Hellllolololo"
+for i in txt:
+    if i in txt[5]:
+    break
+print(i)
